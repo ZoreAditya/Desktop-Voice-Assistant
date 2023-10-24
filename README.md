@@ -12,12 +12,21 @@ This project is simple desktop voice assistant built with python named as “Jar
 # 📌Features
 It can do a lot of cool things, some of them being:<br>
 
-Greet user
-Tell current time and date
-Launch applications/softwares
-Open any website
-Tells about any person (via Wikipedia)
-Can search anything on Google
-Plays music
-Take important note in text file
-Can take screenshot and save it with custom filename
+✔️ Greet user<br>
+✔️ Tell current time and date<br>
+✔️ Open any website<br>
+✔️ Launch applications/softwares<br>
+✔️ Tells about any person (via Wikipedia)<br>
+✔️ Can search anything on Google<br>
+✔️ Can search any YouTube video<br>
+✔️ Can perform key events such as volume up ,volume down, puse ,mute,etc<br>
+✔️ Plays music<br>
+
+
+
+
+
+
+
+
+
