@@ -23,6 +23,16 @@ It can do a lot of cool things, some of them being:<br>
 ✔️ Plays music<br>
 
 
+# 📌Installation
+First Fork this repo by clicking button on top right corner<br>
+Then Clone the repo in your local machine<br>
+Navigate to the directory of your project<br>
+Install all the requirements given in Requirements.txt<br>
+Install PyAudio <br>
+Run the python script named as _main_.py which is in jarvis Directory.<br>
+Password is mentioned in Password.txt<br>
+Now Enjoy with your own assistant !!!!
+
 
 
 
